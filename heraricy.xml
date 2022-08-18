@@ -1,0 +1,207 @@
+<University>
+    <Name> Institute_of_Informatics_and_Communication</Name>
+    <Address>
+        <StreetName>Benito_Juarez_Marg</StreetName>
+        <AreaName>Motibagh</AreaName>
+        <City>DELHI</City>
+        <State>New_Delhi</State>
+        <Country>India</Country>
+    </Address>    
+    
+    <ViceChancellor>
+        <Name>Bijoy_K._Sahoo,</Name>
+        <ContactNumber>9123XXXX34</ContactNumber>
+        <EmailID>vc.southcampus@gmail.com</EmailID>
+        <Address>
+            <StreetName>Benito_Juarez_Marg</StreetName>
+            <AreaName>Motibagh</AreaName>
+            <City>DELHI</City>
+            <State>New_Delhi</State>
+            <Country>India</Country>
+        </Address>
+
+
+        <Dean1>
+            <NameOfFaculty>Applied_Sciences</NameOfFaculty>
+            <Name>Ramesh_Kumar</Name>
+            <ContactNumber>9123XXXX34</ContactNumber>
+            <EmailID>Dean1.southcampus@gmail.com</EmailID>
+            <Address>
+                <StreetName>Benito_Juarez_Marg</StreetName>
+                <AreaName>Motibagh</AreaName>
+                <City>DELHI</City>
+                <State>New_Delhi</State>
+                <Country>India</Country>
+            </Address>
+
+
+            <EmployeeID>892349832749</EmployeeID>
+            <Departments>
+                <DepartmentDetails_1>
+                    <DepartmentName>Physics</DepartmentName>
+                    <Head_of_the_Department>Quantum_physics</Head_of_the_Department>
+                        <Name>BholaRamSacha</Name>
+                        <ContactNumber>9348759XXX</ContactNumber>
+                        <EmailID>bholaramsacha@south.du.ac.in</EmailID>
+                        <Address>
+                            <StreetName>Benito_Juarez_Marg</StreetName>
+                            <AreaName>Motibagh</AreaName>
+                            <City>DELHI</City>
+                            <State>New_Delhi</State>
+                            <Country>India</Country>
+                        </Address>
+                    <Members>
+                        <Name_of_Professor>Mohan.B.Kumar</Name_of_Professor>                   
+                        <Name_of_Professor>	MADHURIMA_DASGUPTA</Name_of_Professor>
+                        <Name_of_Professor>Dr.S.LAVANYA</Name_of_Professor>                    
+                    </Members>
+                </DepartmentDetails_1>
+
+
+                <DepartmentDetails_2>
+                    <DepartmentName>Biomedical_engineering.</DepartmentName>
+                    <Head_of_the_Department>orthopedic_implants</Head_of_the_Department>
+                        <Name>Dr.Shailendra Trivedi</Name>
+                        <ContactNumber>9563732XXX</ContactNumber>
+                        <EmailID>trivedi@south.du.ac.in</EmailID>
+                        <Address>
+                            <StreetName>Benito_Juarez_Marg</StreetName>
+                            <AreaName>Motibagh</AreaName>
+                            <City>DELHI</City>
+                            <State>New_Delhi</State>
+                            <Country>India</Country>
+                        </Address>
+                    <Members>
+                        <Name_of_Professor> Dr. Taher Abbas Mithi</Name_of_Professor>                   
+                        <Name_of_Professor>Dr. Siddhartha Mukherjee</Name_of_Professor>
+                        <Name_of_Professor>Dr. Naresh Trehan </Name_of_Professor>                    
+                    </Members>
+                </DepartmentDetails_2>
+            </Departments>
+        </Dean1>
+
+
+
+        <Dean2>
+            <NameOfFaculty>Faculty_Of_Art</NameOfFaculty>
+            <Name>Dr.Gulmohan_lal</Name>
+            <ContactNumber>934445XXXX</ContactNumber>
+            <EmailID>mohan@south.du.ac.in</EmailID>
+            <Address>
+                <StreetName>Benito_Juarez_Marg</StreetName>
+                <AreaName>Motibagh</AreaName>
+                <City>DELHI</City>
+                <State>New_Delhi</State>
+                <Country>India</Country>
+            </Address>
+            <EmployeeID>892349832748</EmployeeID>
+            <Departments>
+
+
+
+
+                <DepartmentDetails_1>
+                    <DepartmentName>Philosophy</DepartmentName>
+                    <Head_of_the_Department>Philosophy_of_Law</Head_of_the_Department>
+                        <Name>Dr.Aarav</Name>
+                        <ContactNumber>8575794XXX</ContactNumber>
+                        <EmailID>xyz@south.du.ac.in</EmailID>
+                        <Address>
+                            <StreetName>Benito_Juarez_Marg</StreetName>
+                            <AreaName>Motibagh</AreaName>
+                            <City>DELHI</City>
+                            <State>New_Delhi</State>
+                            <Country>India</Country>
+                        </Address>
+                    <Members>
+                        <Name_of_Professor>Abhay</Name_of_Professor>                   
+                        <Name_of_Professor>Abhilash</Name_of_Professor>
+                        <Name_of_Professor>Abishek</Name_of_Professor>                    
+                    </Members>
+                </DepartmentDetails_1>
+
+
+                <DepartmentDetails_2>
+                    <DepartmentName>Economics</DepartmentName>
+                    <Head_of_the_Department>Macro_Economics</Head_of_the_Department>
+                        <Name>Amita</Name>
+                        <ContactNumber>979597XXXX</ContactNumber>
+                        <EmailID>Amita@south.du.ac.in</EmailID>
+                        <Address>
+                            <StreetName>Benito_Juarez_Marg</StreetName>
+                            <AreaName>Motibagh</AreaName>
+                            <City>DELHI</City>
+                            <State>New_Delhi</State>
+                            <Country>India</Country>
+                        </Address>
+                    <Members>
+                        <Name_of_Professor>Ankan</Name_of_Professor>                   
+                        <Name_of_Professor>Amar</Name_of_Professor>
+                        <Name_of_Professor>Anshu</Name_of_Professor>                    
+                    </Members>
+                </DepartmentDetails_2>
+            </Departments>
+        </Dean2>
+
+
+
+
+        <Dean3>
+            <NameOfFaculty>FacultyofLaw</NameOfFaculty>
+            <Name>Rudra</Name>
+            <ContactNumber>90875XXXXXX</ContactNumber>
+            <EmailID>Rudra@south.du.ac.in</EmailID>
+            <Address>
+                <StreetName>Benito_Juarez_Marg</StreetName>
+                <AreaName>Motibagh</AreaName>
+                <City>DELHI</City>
+                <State>New_Delhi</State>
+                <Country>India</Country>
+            </Address>
+            <EmployeeID>892349832743</EmployeeID>
+            <Departments>
+                <DepartmentDetails_1>
+                    <DepartmentName>Law</DepartmentName>
+                    <Head_of_the_Department>Indian_law</Head_of_the_Department>
+                        <Name>Adinew</Name>
+                        <ContactNumber>9594348XXX</ContactNumber>
+                        <EmailID>Adinew@south.du.ac.in</EmailID>
+                        <Address>
+                            <StreetName>Benito_Juarez_Marg</StreetName>
+                            <AreaName>Motibagh</AreaName>
+                            <City>DELHI</City>
+                            <State>New_Delhi</State>
+                            <Country>India</Country>
+                        </Address>
+                    <Members>
+                        <Name_of_Professor>Onkar</Name_of_Professor>                   
+                        <Name_of_Professor>Reyansh</Name_of_Professor>
+                        <Name_of_Professor>Viraj</Name_of_Professor>                    
+                    </Members>
+                </DepartmentDetails_1>
+
+
+                <DepartmentDetails_2>
+                    <DepartmentName>LL.B</DepartmentName>
+                    <Head_of_the_Department>LL.B</Head_of_the_Department>
+                        <Name>Hredhaan</Name>
+                        <ContactNumber>9785748XXX</ContactNumber>
+                        <EmailID>Hredhaan@south.du.ac.in</EmailID>
+                        <Address>
+                            <StreetName>Benito_Juarez_Marg</StreetName>
+                            <AreaName>Motibagh</AreaName>
+                            <City>DELHI</City>
+                            <State>New_Delhi</State>
+                            <Country>India</Country>
+                        </Address>
+                    <Members>
+                        <Name_of_Professor>Viraj</Name_of_Professor>                   
+                        <Name_of_Professor>Yash</Name_of_Professor>
+                        <Name_of_Professor>Jairaj</Name_of_Professor>                    
+                    </Members>
+                </DepartmentDetails_2>
+            </Departments>
+        </Dean3>
+
+    </ViceChancellor>
+</University>
